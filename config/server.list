@@ -1,0 +1,9 @@
+# Server IPs and ports to monitor
+# Ping check only
+8.8.8.8:none
+
+# Check SSH port on localhost
+127.0.0.1:22        
+
+# HTTP server on local network
+192.168.1.100:80    

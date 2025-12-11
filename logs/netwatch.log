@@ -1,0 +1,26 @@
+[2025-11-27 16:35:20] warning: server 8.8.8.8:none        # Ping check only seems offline
+[2025-11-27 16:35:20] warning: server 127.0.0.1:22        # Check SSH port on localhost seems offline
+[2025-11-27 16:35:20] warning: server 192.168.1.100:80    # HTTP server on local network seems offline
+[2025-11-27 16:35:21] warning: service ssh not running
+[2025-11-27 16:43:32] warning: server 8.8.8.8:none        # Ping check only seems offline
+[2025-11-27 16:43:32] warning: server 127.0.0.1:22        # Check SSH port on localhost seems offline
+[2025-11-27 16:43:32] warning: server 192.168.1.100:80    # HTTP server on local network seems offline
+[2025-11-27 16:43:32] warning: service ssh not running
+[2025-11-27 16:47:47] warning: service nginx not running
+[2025-11-27 16:51:05] warning: server 8.8.8.8:none        # Ping check only seems offline
+[2025-11-27 16:51:05] warning: server 127.0.0.1:22        # Check SSH port on localhost seems offline
+[2025-11-27 16:51:05] warning: server 192.168.1.100:80    # HTTP server on local network seems offline
+[2025-11-27 17:05:52] warning: server 127.0.0.1:22         seems offline
+[2025-11-27 17:05:52] warning: server 192.168.1.100:80     seems offline
+[2025-11-27 21:15:42] warning: server 127.0.0.1:22         seems offline
+[2025-11-27 21:15:42] warning: server 192.168.1.100:80     seems offline
+[2025-11-27 22:33:24] warning: server 127.0.0.1:22         seems offline
+[2025-11-27 22:33:24] warning: server 192.168.1.100:80     seems offline
+[2025-11-28 00:01:58] warning: server 127.0.0.1:22         seems offline
+[2025-11-28 00:01:58] warning: server 192.168.1.100:80     seems offline
+[2025-11-28 00:23:35] warning: server 127.0.0.1:22         seems offline
+[2025-11-28 00:23:35] warning: server 192.168.1.100:80     seems offline
+[2025-11-28 00:52:57] warning: server 127.0.0.1:22         seems offline
+[2025-11-28 00:52:57] warning: server 192.168.1.100:80     seems offline
+[2025-11-28 01:09:23] warning: server 127.0.0.1:22         seems offline
+[2025-11-28 01:09:23] warning: server 192.168.1.100:80     seems offline
